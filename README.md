@@ -1,3 +1,3 @@
-# 컴퓨터 그래픽스 중간고사 대체 과제
+### WebGL music visualiser
 
-아아 마이크테스트 마이크
+A simple music visualiser built using webgl2
